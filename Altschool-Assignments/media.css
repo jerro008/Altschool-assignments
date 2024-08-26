@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+  scroll-behavior: smooth;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 30rem;
+}
+
+.media {
+  position: absolute;
+  left: 30%;
+  bottom: -140rem;
+}
+
+.media-2 {
+  margin-bottom: -14rem;
+  margin-left: 30rem;
+}
