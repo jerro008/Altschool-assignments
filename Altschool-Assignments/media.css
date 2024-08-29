@@ -13,12 +13,5 @@ section {
 }
 
 .media {
-  position: absolute;
-  left: 30%;
-  bottom: -140rem;
-}
-
-.media-2 {
-  margin-bottom: -14rem;
-  margin-left: 30rem;
+  text-align: center;
 }
